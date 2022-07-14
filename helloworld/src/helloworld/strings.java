@@ -12,6 +12,7 @@ public class strings {
 		System.out.println("Length : " + name.length());
 		System.out.println(c);
 		System.out.println(s5);
+		
 		//string methods
 		String s ="Hello world";
 		System.out.println("Length : " + s.length());
