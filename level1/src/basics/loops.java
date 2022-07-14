@@ -28,5 +28,6 @@ public class loops {
 
 		}
 		System.out.println("sum " + sum);
+		System.out.println("Check");
 	}
 }
